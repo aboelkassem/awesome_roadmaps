@@ -1,8 +1,20 @@
 **Table of Contents**
 
-[TOCM]
-
-[TOC]
+- [Ways of learning](#ways-of-learning)
+- [Ready](https://github.com/orsanawwad/awesome-roadmaps "Ready") [Roadmaps](https://github.com/liuchong/awesome-roadmaps "Roadmaps")
+    + [For no cs degree](#for-no-cs-degree)
+    + [Web Skills](#web-skills)
+    + [General Frontend](#general-frontend)
+    + [General Backend](#general-backend)
+    + [React Developer](#react-developer)
+    + [Angular Developer](#angular-developer)
+    + [Vue Developer](#vue-developer)
+    + [Machine Learning Roadmaps](#machine-learning-roadmaps)
+    + [.Net Core Roadmaps](#net-core-roadmaps)
+    + [Flutter Roadmap](#flutter-roadmap)
+    + [Android Roadmap](#android-roadmap)
+    + [IOS Roadmap](#ios-roadmap)
+    + [Go Developer](#go-developer)
 
 ##  Ways of learning
 - Finding Right resources that won't make you hate these technology or feel boring
