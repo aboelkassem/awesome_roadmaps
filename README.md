@@ -39,6 +39,7 @@ a collections of roadmaps for the software industry and other technologies from 
 #### Web Skills
 - Full guide for [useful skills to learn as a web developer](https://andreasbm.github.io/web-skills/)
 - [This Article](https://levelup.gitconnected.com/the-2020-web-developer-roadmap-76503ddfb327) is good to get small definitions of technologies
+- [Web development guide 2020](https://github.com/andrews1022/web-development-2020-course-list)
 
 #### General Frontend 
 - [Frontend Developer](https://roadmap.sh/frontend)
