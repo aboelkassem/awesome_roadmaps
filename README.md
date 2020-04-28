@@ -64,6 +64,12 @@ a collections of roadmaps for the software industry and other technologies from 
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 - [Deep Learning roapmap](https://github.com/machinelearningmindset/deep-learning-roadmap)
 - [NLP roadmap](https://github.com/graykode/nlp-roadmap)
+- [list of resources of NLP](https://github.com/keon/awesome-nlp)
+- [list of awesome research papers, datasets and software projects devoted to machine learning](https://github.com/src-d/awesome-machine-learning-on-source-code)
+- [list of awesome Machine Learning frameworks, libraries](https://github.com/josephmisiti/awesome-machine-learning)
+- [machine learning and deep learning tutorials, articles and other resources](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+- [TensorFlow list ](https://github.com/jtoy/awesome-tensorflow)
+- [Simple tutorials of TensorFlow with code](https://github.com/nlintz/TensorFlow-Tutorials)
 
 #### .Net Core Roadmaps
 - [ASP.NET Core developer in 2019](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) this roadmap discuss the tools and framework you might need in building your software and some general concepts to understand
